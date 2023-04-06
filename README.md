@@ -1,5 +1,20 @@
-﻿# Eu-ProgrAmo2-Desafio-Dicionario-de-mulheres-negras-Ordem-Alfabetica
+﻿# Eu Progr{amo} Front-End #2
 
-## Desafios do curso EuProgramo Front-End II da PrograMaria
+![preview](./img/readme/previa.png)
 
-Feito com HTML, CSS e Javascript# Eu-ProgrAmo-Dicionario-de-mulheres-negras
+> Turma 1
+
+Desafio de colocar o Dicionarios de Mulheres Negras que fizeram e ainda fazem parte da história do Brasil e do Mundo, em ordem alfabetica
+
+[🔗 Clique aqui para acessar](https://soubeatrizkaroline.github.io/EuProgrAmo2_Desafio/)
+
+## 🛠 Tecnologias
+
+- HTML
+- CSS
+- JS
+- Git e Github
+
+## 💙 Contato
+
+ebeatrizkcs@gmail.com

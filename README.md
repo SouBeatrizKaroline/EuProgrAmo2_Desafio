@@ -1,4 +1,4 @@
-﻿# Eu Progr{amo} Front-End #2
+# Eu Progr{amo} Front-End #2
 
 ![preview](./img/readme/previa.png)
 
